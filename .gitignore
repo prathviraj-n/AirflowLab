@@ -1,0 +1,5 @@
+venv/
+airflow_home/
+data/
+__pycache__/
+*.pyc
